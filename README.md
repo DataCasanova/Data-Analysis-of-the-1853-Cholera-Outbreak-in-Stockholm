@@ -76,6 +76,11 @@ Mortality Rate Across different Gender    |   Professions
 ![](motalityrate.JPG)                    |   ![](esa.JPG)        
 
 ## Dashboard
+
+Dashboard Report                          |   Analysis   
+:----------------------------------------:|:---------------------------------------:
+![](Capture77.JPG)                        |      
+
 The Report can be found in Power BI [here](https://app.powerbi.com/view?r=eyJrIjoiYzI2YWE2MTMtYTZkMi00NGNiLWFiMDgtZjhjMmExN2I5NGU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9). This dashboard enables users to filter by Categories and focuses on trends and metrics.
 
 
