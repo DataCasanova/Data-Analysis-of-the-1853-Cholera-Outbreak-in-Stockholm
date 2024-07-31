@@ -81,6 +81,15 @@ Dashboard Report                          |   Analysis
 :----------------------------------------:|:---------------------------------------:
 ![](Capture77.JPG)                        |      
 
+<div>
+    <a href="https://www.loom.com/share/a6508fc368b142829faaaee11e1be17c">
+      <p>Microsoft Power BI - Report Visualization - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a6508fc368b142829faaaee11e1be17c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a6508fc368b142829faaaee11e1be17c-ce891c007490c8ad-full-play.gif">
+    </a>
+  </div>
+
 The Report can be found in Power BI [here](https://app.powerbi.com/view?r=eyJrIjoiYzI2YWE2MTMtYTZkMi00NGNiLWFiMDgtZjhjMmExN2I5NGU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9). This dashboard enables users to filter by Categories and focuses on trends and metrics.
 
 
